@@ -1,0 +1,20 @@
+.footer {
+	background-color: #5f5956;
+	height: 10vh;
+	padding-top: 10px;
+	margin-top: 0;
+}
+
+.footer-text {
+	font-size: 2vmin;
+	line-height: 5px;
+	color: #2b2b2b;
+}
+
+.footer-text-medium {
+	font-size: 1.8vmin;
+}
+
+.footer-text-small {
+	font-size: 1.5vmin;
+}

@@ -1,0 +1,31 @@
+.wrapper {
+	background-color: #e8e8e8;
+}
+
+.blocks {
+	display: inline-block;
+	margin: 0;
+	width: 100%;
+}
+
+.link {
+	text-decoration: none;
+	outline: none;
+}
+
+.link:link {
+	color: #daa520;
+}
+
+.link:visited {
+	color: #daa520;
+}
+
+.link:hover {
+	color: #ffd700;
+
+}
+
+.link:active {
+	color: #f7ff80;
+}

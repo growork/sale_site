@@ -1,0 +1,58 @@
+body {
+  font-family: 'PT Serif', serif;
+	color: #000;
+	font-size: 3vmin;
+	text-align: center;
+}
+
+.title-large {
+	font-size: 17vmin;
+	color: #e8e8e8;
+	text-align: center;
+	margin: 0;
+	padding-top: 4vh;
+	text-shadow: 3px 3px 0 black, -1px -1px 0 black;;
+}
+
+.title-medium {
+	font-size: 9vmin;
+	text-align: center;
+	color: black;
+	margin: 25vh 0 7vh 0;
+	text-shadow: 3px 2px 5px gray, -2px -3px 5px gray;
+}
+
+.title-medium:before {
+	display: block;
+	content: '';
+	height: 70px;
+}
+
+.title-small {
+	margin-bottom: 5vh;
+	color: #504813;
+}
+
+.text-small {
+	display: block;
+	font-size: 5vmin;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 2px #787878, -2px -2px 2px #787878;
+	margin-top: -6vh;  
+}
+
+.text-content {
+	text-align: center;
+	color: #504813;
+}
+
+.developer-name {
+	text-align: center;
+	font-size: 4vmin;
+	margin: 0 auto;
+}
+
+.money {
+	color: green;
+}

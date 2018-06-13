@@ -1,0 +1,19 @@
+.developer {
+	display: inline-block;
+	width: 17vw;
+	margin: 10px 8vw 0 8vw;
+}
+
+.developer-photo {
+	width: 17vw;
+	border: 3px solid #b7b7b7;
+	border-radius: 30px;
+	box-shadow: 5px 5px 10px 2px gray, -5px -5px 10px 2px gray;
+}
+
+.developer-name {
+	width: 17vw;
+	padding-bottom: 2vh;
+	font-weight: bold;
+  font-family: 'Cinzel Decorative', cursive;
+}

@@ -1,0 +1,12 @@
+.wrapper {
+	min-height: 100%;
+}
+
+.header {
+	height: 50vmin;
+}
+
+.content {
+	display: inline-block;
+	width: 100%;
+}
