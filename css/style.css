@@ -50,18 +50,18 @@
 }
 
 
-@media (max-width: 960px) {
+@media (max-width: 1000px) {
 	.title-large {
-		font-size: 5em;
+		font-size: 30pt;
 	}
 
 	.title-small {
-		font-size: 1.3em;
-		margin-top: -30px;
+		font-size: .9em;
+		margin-top: -15px;
 	}
 
 	.header {
-		height: 250px;
+		height: 200px;
 	}
 
 	.top-menu-text {
@@ -95,23 +95,24 @@
 	.title-medium {
 		margin-top: 0;
 	}
-}
-
-@media (max-width: 800px) {
-	.title-large {
-		font-size: 30pt;
-	}
-
-	.title-small {
-		font-size: .9em;
-		margin-top: -15px;
-	}
 
 	body {
 		font-size: 11pt;
 	}
+}
+
+@media (max-width: 960px) {
+	.title-large {
+		
+	}
+
+	.title-small {
+		
+	}
+
+	
 
 	.header {
-		height: 200px;
+		
 	}
 }
