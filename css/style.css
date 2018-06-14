@@ -30,7 +30,7 @@
 	color: #f7ff80;
 }
 
-@media (max-width: 1250px) {
+@media (max-width: 1330px) {
 	.top-menu-buttons {
 		width: 700px;
 		margin-top: 0;
@@ -45,5 +45,4 @@
 		margin-top: 15px;
 	}
 }
-
 

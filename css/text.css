@@ -37,7 +37,7 @@ body {
 
 .text-small {
 	display: block;
-	font-size: 25pt;
+	font-size: 1.6em;
 	text-align: center;
 	color: white;
 	text-shadow: .5px .5px 1px black, -.5px -.5px 1px black;
@@ -51,7 +51,7 @@ body {
 
 .developer-name {
 	text-align: center;
-	font-size: 4vmin;
+	font-size: 2em;
 	margin: 0 auto;
 }
 
