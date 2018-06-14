@@ -1,18 +1,18 @@
 .column-1-2 {
 	display: inline-block;
-	margin: 10px 6vw;
-	width: 17vw;
+	margin: 10px 15px;
+	width: 300px;
 	background-color: white;
-	border-radius: 10%;
+	border-radius: 20px;
 	box-shadow: 5px 5px 10px 2px gray, -5px -5px 10px 2px gray;
 }
 
 .column-1-2-photo {
-	width: 15vw;
-	height: 15vw;
+	width: 200px;
+	height: 200px;
 }
 
 .icon {
-	width: 1vw;
-	margin-right: .4vw;
+	width: 15px;
+	margin-right: 5px;
 }

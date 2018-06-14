@@ -1,26 +1,28 @@
 body {
   font-family: 'PT Serif', serif;
 	color: #000;
-	font-size: 3vmin;
+	font-size: 14pt;
 	text-align: center;
 }
 
 .title-large {
-	font-size: 17vmin;
+	font-size: 100pt;
 	color: #e8e8e8;
 	text-align: center;
 	margin: 0;
-	padding-top: 4vh;
+	padding-top: 50px;
 	text-shadow: 3px 3px 0 black, -1px -1px 0 black;;
 }
 
 .title-medium {
-	font-size: 9vmin;
+	font-size: 3.5em;
 	text-align: center;
 	color: black;
-	margin: 25vh 0 7vh 0;
+	margin: 100px 0 50px 0;
 	text-shadow: 3px 2px 5px gray, -2px -3px 5px gray;
 }
+
+/* Отступ от заголовков, чтобы меню было выше при переходе по якорю */
 
 .title-medium:before {
 	display: block;
@@ -29,17 +31,17 @@ body {
 }
 
 .title-small {
-	margin-bottom: 5vh;
+	margin-bottom: 50px;
 	color: #504813;
 }
 
 .text-small {
 	display: block;
-	font-size: 5vmin;
+	font-size: 25pt;
 	text-align: center;
 	color: white;
-	text-shadow: 2px 2px 2px #787878, -2px -2px 2px #787878;
-	margin-top: -6vh;  
+	text-shadow: .5px .5px 1px black, -.5px -.5px 1px black;
+	margin-top: -50px;
 }
 
 .text-content {
