@@ -27,10 +27,10 @@
 }
 
 .order-button {
-	width: 17vw;
-	height: 8vh;
+	width: 300px;
+	height: 70px;
 	margin: 100px 0 0 0;
-	padding: 4vh 0 0 0;
+	padding: 35px 0 0 0;
 	font-size: 1.6em;
 }
 
@@ -43,7 +43,7 @@
 	font-size: 1em;
 	background-color: #2b1100;
 	box-shadow: -3px -3px 5px 0 #2b1100, 3px 3px 5px 0 #2b1100;
-	float: right;
+	float: left;
 }
 
 .top-menu-order-button {
@@ -54,7 +54,7 @@
 	padding-top: 15px;
 	font-weight: bold;
 	font-size: 1.3em;
-	float: right;
+	float: left;
 }
 
 .top-menu-button:link {
@@ -79,10 +79,10 @@
 	display: inline-block;
 	position: sticky;
 	bottom: 0;
-	width: 8vmin;
-	height: 6vmin;
+	width: 70px;
+	height: 30px;
 	border-radius: 10px;
-	padding-top: 2vmin;
+	padding-top: 10px;
 	background-color: #6f6f6f;
 	box-shadow: -3px -3px 5px 0 #b7b7b7, 3px 3px 5px 0 #b7b7b7;
 }
@@ -111,6 +111,7 @@
 	margin: 60vh 0 0 0;
 	padding: 0;
 	float: right;
+	background-color: red;
 }
 
 .to-top-button-zone-hover {
@@ -121,6 +122,7 @@
 	opacity: 0.7;
 	width: 30vw;
 	height: 90vh;
+	background-color: green;
 }
 
 .to-top-button-zone-hover:hover {

@@ -1,19 +1,19 @@
 .developer {
 	display: inline-block;
-	width: 17vw;
-	margin: 10px 8vw 0 8vw;
+	width: 320px;
+	margin-top: 10px;
 }
 
 .developer-photo {
-	width: 17vw;
+	width: 300px;
 	border: 3px solid #b7b7b7;
 	border-radius: 30px;
 	box-shadow: 5px 5px 10px 2px gray, -5px -5px 10px 2px gray;
 }
 
 .developer-name {
-	width: 17vw;
-	padding-bottom: 2vh;
+	width: 280px;
+	padding-bottom: 20px;
 	font-weight: bold;
   font-family: 'Cinzel Decorative', cursive;
 }

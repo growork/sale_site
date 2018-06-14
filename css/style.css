@@ -43,6 +43,75 @@
 
 	.top-menu-order-button {
 		margin-top: 15px;
+		width: 420px;
+		height: 25px;
+		padding-top: 0;
 	}
 }
 
+
+@media (max-width: 960px) {
+	.title-large {
+		font-size: 5em;
+	}
+
+	.title-small {
+		font-size: 1.3em;
+		margin-top: -30px;
+	}
+
+	.header {
+		height: 250px;
+	}
+
+	.top-menu-text {
+		float: none;
+		width: 100%;
+	}
+
+	.top-menu-buttons {
+		float: none;
+		width: 100%;
+	}
+
+	.top-menu-button {
+		width: 100%;
+	}
+
+	.top-menu-order-button {
+		width: 100%;
+	}
+
+	.top-menu {
+		height: auto;
+		position: static;
+		opacity: 1;
+	}
+
+	.to-top-button-zone-hover {
+		visibility: hidden;
+	}
+
+	.title-medium {
+		margin-top: 0;
+	}
+}
+
+@media (max-width: 670px) {
+	.title-large {
+		font-size: 30pt;
+	}
+
+	.title-small {
+		font-size: .9em;
+		margin-top: -15px;
+	}
+
+	body {
+		font-size: 11pt;
+	}
+
+	.header {
+		height: 200px;
+	}
+}
