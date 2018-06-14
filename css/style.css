@@ -98,21 +98,6 @@
 
 	body {
 		font-size: 11pt;
-	}
-}
-
-@media (max-width: 960px) {
-	.title-large {
-		
-	}
-
-	.title-small {
-		
-	}
-
-	
-
-	.header {
-		
+		width: 500px;
 	}
 }
